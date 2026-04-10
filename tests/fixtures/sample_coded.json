@@ -1,0 +1,12 @@
+[
+  {"participant_id": "P01", "codes": ["cognitive_load", "feature_overload", "navigation_confusion", "trust_deficit", "onboarding_friction", "mental_model_mismatch"]},
+  {"participant_id": "P02", "codes": ["cognitive_load", "feature_overload", "information_overload", "navigation_confusion", "feedback_loop_absence"]},
+  {"participant_id": "P03", "codes": ["trust_deficit", "data_privacy_concern", "cognitive_load", "feature_overload", "mental_model_mismatch"]},
+  {"participant_id": "P04", "codes": ["navigation_confusion", "feature_overload", "cognitive_load", "task_completion_anxiety"]},
+  {"participant_id": "P05", "codes": ["cognitive_load", "feature_overload", "navigation_confusion", "trust_deficit"]},
+  {"participant_id": "P06", "codes": ["cognitive_load", "feature_overload", "navigation_confusion", "mental_model_mismatch"]},
+  {"participant_id": "P07", "codes": ["trust_deficit", "cognitive_load", "feature_overload", "navigation_confusion"]},
+  {"participant_id": "P08", "codes": ["cognitive_load", "feature_overload", "navigation_confusion"]},
+  {"participant_id": "P09", "codes": ["cognitive_load", "feature_overload", "trust_deficit", "navigation_confusion"]},
+  {"participant_id": "P10", "codes": ["cognitive_load", "feature_overload", "navigation_confusion", "mental_model_mismatch"]}
+]

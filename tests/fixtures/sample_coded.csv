@@ -1,0 +1,11 @@
+participant_id,codes
+P01,"cognitive_load,feature_overload,navigation_confusion,trust_deficit,onboarding_friction,mental_model_mismatch"
+P02,"cognitive_load,feature_overload,information_overload,navigation_confusion,feedback_loop_absence"
+P03,"trust_deficit,data_privacy_concern,cognitive_load,feature_overload,mental_model_mismatch"
+P04,"navigation_confusion,feature_overload,cognitive_load,task_completion_anxiety"
+P05,"cognitive_load,feature_overload,navigation_confusion,trust_deficit"
+P06,"cognitive_load,feature_overload,navigation_confusion,mental_model_mismatch"
+P07,"trust_deficit,cognitive_load,feature_overload,navigation_confusion"
+P08,"cognitive_load,feature_overload,navigation_confusion"
+P09,"cognitive_load,feature_overload,trust_deficit,navigation_confusion"
+P10,"cognitive_load,feature_overload,navigation_confusion,mental_model_mismatch"
