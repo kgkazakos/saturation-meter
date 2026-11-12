@@ -4,7 +4,7 @@ LLM narrative enrichment for saturation-meter.
 Supported backends (all optional — install only what you need):
   openai    — pip install openai        (model: gpt-4o-mini)
   anthropic — pip install anthropic     (model: claude-haiku-4-5-20251001)
-  gemini    — pip install google-genai  (model: gemini-3.1-pro-preview)
+  gemini    — pip install google-genai  (model: gemini-4-argon)
 
 Usage:
   saturation-meter analyze interviews.csv --llm-backend anthropic
@@ -24,7 +24,7 @@ from .models import SaturationReport
 
 _OPENAI_MODEL = "gpt-4o-mini"
 _ANTHROPIC_MODEL = "claude-haiku-4-5-20251001"
-_GEMINI_MODEL = "gemini-3.1-pro-preview"
+_GEMINI_MODEL = "gemini-4-argon"
 _MAX_TOKENS = 600
 
 # ---------------------------------------------------------------------------
